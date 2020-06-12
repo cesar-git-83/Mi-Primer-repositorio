@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Angular</title>
+    <title>Angular 6</title>
     <link rel="stylesheet" href="asset/css/bootstrap.min.css">
   </head>
   <body>
